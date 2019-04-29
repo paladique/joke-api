@@ -41,7 +41,7 @@ Submit a Pull Request, with your joke added to the jokes/index.json file. Be sur
 
 As a super simple example, this function simple appends returns `Hello + name`.
 
-<https://joke-api.azurewebsites.net/api/hello/?name=Alex>
+<https://joke-api.azurewebsites.net/api/sayhi/?name=Alex>
 
 returns
 
