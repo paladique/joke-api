@@ -14,8 +14,8 @@ returns
 {
   "id": 56,
   "type": "programming",
-  "setup": "How do you check if a webpage is HTML5?",
-  "punchline": "Try it out on Internet Explorer"
+  "setup": "There are 10 types of people in this world...",
+  "punchline": "Those who understand binary and those who don't"
 }
 ```
 
